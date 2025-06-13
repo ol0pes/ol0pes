@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Junior Lopes
 - 👀 I’m interested in do as much pogress in developing as I can
-- 🌱 I’m currently learning Python, JS and DevOps
+- 🌱 I’m currently learning Python, DevOps and Terraform
 - 💞️ I’m looking to collaborate on small/mid projects to gather more experience in the area
 - 📫 How to reach me: juniorlopes1317@gmail.com
 - ⚡ Fun fact: I`m very good at Counter Strike :) 
