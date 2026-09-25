@@ -9,7 +9,7 @@ Day to day I build multi-tenant Python services on Azure that integrate with Mic
 
 - ⚙️ **Backend & APIs:** Python services, integrations with third-party APIs, automation
 - 📊 **Data:** ingestion pipelines, lakehouse modelling, BI reporting
-- 🎮 **Games:** personal projects in Godot
+- 🎮 **Games:** personal projects in Godot and Unreal Engine
 
 ### Stack
 
