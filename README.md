@@ -27,6 +27,6 @@ Day to day I build multi-tenant Python services on Azure that integrate with Mic
 
 - 🎓 BSc in Systems Analysis and Development (expected 2027)
 - 📜 Microsoft Certified: Azure Fundamentals (AZ-900)
-- 📫 juniorlopes1317@gmail.com · [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+- 📫 juniorlopes1317@gmail.com · [LinkedIn](https://www.linkedin.com/in/júnior-lopes-22205b160/)
 
 <sub>Fun fact: I'm pretty good at Counter-Strike.</sub>
