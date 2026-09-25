@@ -13,7 +13,7 @@ Day to day I build multi-tenant Python services on Azure that integrate with Mic
 
 ### Stack
 
-- **Languages:** Python, SQL, KQL, DAX
+- **Languages:** Python, JAVA, SQL, KQL, DAX
 - **Cloud:** Azure Functions, Azure Storage, Cosmos DB
 - **Data & BI:** Power BI, Power Query
 - **Learning now:** Spark, Delta Lake, Airflow · studying for AZ-204
